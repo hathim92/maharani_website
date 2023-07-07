@@ -1,0 +1,13 @@
+.nav-link {
+  cursor: pointer;
+}
+.navbar-container {
+  position: sticky;
+  top: 0px;
+  z-index: 5;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+a,
+a:hover {
+  color: white;
+}
